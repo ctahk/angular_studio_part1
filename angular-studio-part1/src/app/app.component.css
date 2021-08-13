@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    padding: 10px;
+    
+ }
+
+ .title {
+     color: orangered;
+     text-decoration: underline;
+     text-align: center;
+    
+ }
